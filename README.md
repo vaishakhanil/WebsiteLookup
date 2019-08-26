@@ -1,10 +1,10 @@
-#Host info scanner in Go
-A simple Website Lookup CLI project created in Go to understand the concept of extracting command line arguments and using it for performing a simple network lookup 
+# Host info scanner in Go
+A simple Website Lookup CLI project created in Go to understand the concept of extracting command line arguments and using it for performing a simple network lookup#
 
-##Running the netinfo CLI:
+## Running the netinfo CLI:
 ```./netinfo [global options] command [command options] [arguments...]
 ```
-##Help Command:
+## Help Command:
 ```
 ./netinfo
 NAME:
@@ -28,6 +28,6 @@ GLOBAL OPTIONS:
    --help, -h     show help
    --version, -v  print the version
 ```
-##Build With
+## Build With
 1. Go Programming Language
 2. Build CLI package - github.com/urfave/cli
