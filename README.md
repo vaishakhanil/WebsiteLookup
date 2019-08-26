@@ -2,7 +2,8 @@
 A simple Website Lookup CLI project created in Go to understand the concept of extracting command line arguments and using it for performing a simple network lookup#
 
 ## Running the netinfo CLI:
-```./netinfo [global options] command [command options] [arguments...]
+```
+./netinfo [global options] command [command options] [arguments...]
 ```
 ## Help Command:
 ```
